@@ -20,4 +20,15 @@ body {
 .presentacion {
     display: flex;
     align-items: center;
+    margin: 5%;
+    justify-content: space-between;
+}
+
+.presentacion__contenido__titulo {
+    font-size: 36px;
+    
+}
+
+.presentacion__contenido_titulo {
+    font-size: 24px;
 }
