@@ -5,6 +5,23 @@
     margin: 0;
 }
 
+.header__menu {
+    display: flex;
+    flex-direction: row;
+    align-content: left;
+    
+}
+
+.header__menu__link {
+    display: flex;
+    justify-content: space-between;
+    font-family: "Montserrat", serif;
+    font-weight: 600;
+    font-size: 24px;
+    color: #22D4FD;
+    padding: 80px;
+}
+
 body {
    /* height: 100vh; /* 100% del viewport height */
     box-sizing: border-box;
@@ -21,7 +38,7 @@ body {
 
 .presentacion {
     display: flex;
-    margin: 10% 10%;
+    padding: 5%;
     justify-content: space-between;
 }
 
