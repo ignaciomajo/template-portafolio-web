@@ -73,10 +73,14 @@ body {
     font-weight: 600;
     text-decoration: none;
     border: 2px solid #22D4FD;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px
 }
 
 .presentacion__enlaces__botones:hover {
-    background-color: #0A8DFF;
+    background-color: #272727;
 }
 
 img {
