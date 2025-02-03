@@ -6,7 +6,7 @@
 }
 
 body {
-    height: 100vh; /* 100% del viewport height */
+   /* height: 100vh; /* 100% del viewport height */
     box-sizing: border-box;
     background-color: #000000;
     color: #F6F6F6;
@@ -86,4 +86,14 @@ body {
 img {
     display: flex;
     align-items: center;
+}
+
+.footer {
+    background-color: #22D4FD;
+    padding: 23.6px;
+    color: #000000;
+    text-align: center;
+    font-family: "Montserrat", serif;
+    font-size: 24px;
+    font-weight: 400;
 }
