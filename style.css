@@ -136,3 +136,20 @@ body {
     font-size: var(--fuente-size-pequena);
     font-weight: 400;
 }
+
+@media (max-width: 1200px) {
+
+    .header {
+        padding: 10%;
+    }
+    
+    .header__menu {
+       justify-content: center;
+    }
+
+    .presentacion {
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+}
