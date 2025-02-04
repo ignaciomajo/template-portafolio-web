@@ -151,5 +151,11 @@ body {
         display: flex;
         flex-direction: column-reverse;
         align-items: center;
+        padding: 5%;
+    }
+
+    .presentacion__contenido {
+        width: auto;
+        gap: 1.5rem;
     }
 }
