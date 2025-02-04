@@ -9,9 +9,10 @@
     --fuente-titulo: "Krona One", serif;
     --fuente-parrafo: "Montserrat", serif;
 
-    --fuente-size-grande: 36px;
-    --fuente-size-pequena: 24px;
-    --fuente-size-intermedio: 30px;
+    --fuente-size-grande: 2.25rem;
+    --fuente-size-intermedia: 1.875rem;
+    --fuente-size-pequena: 1.5rem;
+    
 }
 
 * {
