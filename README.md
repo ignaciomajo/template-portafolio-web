@@ -1,19 +1,19 @@
-# Template Portafolio Personal
+# Template Portafolio Personal.
 
 ![Foto Portada](https://github.com/user-attachments/assets/01bb4d6e-1b46-4b89-8917-3e7326e695ec)
 
 
 
-## Índice :clipboard:
+## Índice. :clipboard:
 
 1. Descripción del proyecto.
 2. Acceso al proyecto.
 3. Demostración de funciones y aplicaciones.
 4. Técnicas y tecnologías utilizadas.
-5. Personas contribuyentes
+5. Colaboradores del proyecto
 6. Desarrollador del proyecto
 
-## 1. Descripción del proyecto :books:
+## 1. Descripción del proyecto. :books:
 
 Este proyecto consiste en el desarrollo de una página web personal con un diseño moderno, armonioso y completamente responsivo, garantizando una óptima experiencia de usuario en dispositivos móviles, tabletas y computadoras de escritorio.<br>
 
@@ -21,7 +21,7 @@ La estructura del sitio ha sido concebida como un prototipo flexible y personali
 
 Con una interfaz intuitiva y una estética cuidadosamente seleccionada, esta página web proporciona una plataforma eficiente para destacar la identidad digital del usuario, facilitando su conexión con potenciales contactos, clientes o colaboradores.
 
-## 2. Acceso al proyecto :open_file_folder:
+## 2. Acceso al proyecto. :open_file_folder:
 
 Para acceder al proyecto puedes hacerlo de dos maneras sencillas:
 
@@ -45,7 +45,7 @@ Luego, dirígete al directorio donde has decidido clonar o descargar el archivo 
 
 Una vez realizado estos pasos, podras acceder a los archivos utilizando un editor de texto como **Visual Studio Code** para modificar el template y desarrollar tu proyecto personal.
 
-## 3. Demostración de funciones y aplicaciones.
+## 3. Demostración de funciones y aplicaciones. :memo:
 
 ### Demostración de funciones.
 
@@ -160,4 +160,36 @@ En ambos casos solo necesitas modificar lo que se encuentra entre `<p> </p>`
 **- Línea 34:** Aqui deberías copiar el mismo texto que has puesto en la **Línea 39** de la página principal.
 
 
-## 4. Técnicas y tecnologías utilizadas.
+## 4. Técnicas y tecnologías utilizadas. :hammer_and_wrench:
+
+En este proyecto se utilizaron las siguientes tecnologías:
+
+* `Visual Studio Code`
+* `ChatGPT (generación de imagen de portada)`
+* `HTML-5`
+* `CSS-3`
+* `Git y GitHub`
+
+## 5. Colaboradores del proyecto. :building_construction:
+
+Quiero agradecer a:
+
+### Oracle
+![oracle](https://github.com/user-attachments/assets/53352188-89c8-4a95-ae9b-2d3ee0e6042d)
+
+### Alura LATAM
+![alura-latam](https://github.com/user-attachments/assets/74c370e4-08c8-41d4-b352-93022125e5ba)
+
+Este proyecto ha sido posible gracias a estás dos grandes empresas que juntas han desarrollado el programa **Orcale Next Education** con el objetivo de capacitar a los trabajadores del futuro.
+
+![one](https://github.com/user-attachments/assets/a443b508-9c77-4f6b-a1e0-bbba3a6988d8)
+
+## 6. Desarrollador del proyecto. :construction_worker:
+
+![IMG_1221](https://github.com/user-attachments/assets/6e1619fd-ff14-4ec4-87e0-f8a6ebefc87c)
+
+**| Ignacio Majo | Data Scientist Jr.**
+
+
+
+
