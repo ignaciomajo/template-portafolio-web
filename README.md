@@ -126,7 +126,7 @@ Cada enlace está delimitado por `<a> </a>`.
 
 Puedes agregar más enlaces o eliminar alguno si lo necesitas.
 
-* Para agregar más enlaces copia un bloque completo `<a> </a>` (corresponde a dos lineas, por ejemplo: 28 y 29) y copialo debajo del ultimo bloque de este estilo. Luego modifica las propiedades mencionadas anteriormente.
+* Para agregar más enlaces copia un bloque completo `<a> </a>` (corresponde a dos lineas, por ejemplo: 28 y 29) y copialo agregalo debajo del ultimo bloque de este estilo. Luego modifica las propiedades mencionadas anteriormente.
 
 * Para eliminar un enlace, simplemente borra un bloque completo `<a> </a>`.
 
@@ -140,7 +140,24 @@ Esta linea corresponde a la imagen que quieras que aparezca en tu pagina web. Pa
 
 **- Línea 39:**
 
-Aquí puedes modificar el texto con tu nombre para denotar que has sido tu quien ha desarrollado tu página web. Puedes agregar otro tipo de información si así lo deseas.
+Aquí puedes modificar el texto con tu nombre para denotar que has sido tú quien ha desarrollado tu página web. Puedes agregar otro tipo de información si así lo deseas.
 
 
 **CONTENIDO PAGINA "SOBRE MI"**
+
+![about-html](https://github.com/user-attachments/assets/360ce4dc-719f-4777-a538-480c334b4524)
+
+Esta página corresponde a una descripción sobre ti, tu trayectoria y proyección a futuro, o cualquier información que quieras compartir con los visitantes de tu sitio web.
+
+La distribución de la información está dividida en dos párrafos.
+
+En ambos casos solo necesitas modificar lo que se encuentra entre `<p> </p>`
+
+**- Línea 19 a 23:** Primer párrafo
+
+**- Línea 24 a 31:** Segundo párrafo
+
+**- Línea 34:** Aqui deberías copiar el mismo texto que has puesto en la **Línea 39** de la página principal.
+
+
+## 4. Técnicas y tecnologías utilizadas.
