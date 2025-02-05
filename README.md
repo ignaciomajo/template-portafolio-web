@@ -1,6 +1,7 @@
 # Template Portafolio Personal
 
-![Foto Portada](https://github.com/user-attachments/assets/a91b63cc-ac84-4919-8954-ea030bd03840)
+![Foto Portada](https://github.com/user-attachments/assets/01bb4d6e-1b46-4b89-8917-3e7326e695ec)
+
 
 
 ## Índice
