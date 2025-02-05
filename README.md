@@ -44,3 +44,20 @@ Luego, dirígete al directorio donde has decidido clonar o descargar el archivo 
 ![repositorio-template](https://github.com/user-attachments/assets/4877cc47-a655-434b-9061-b02edf4d8b1d)
 
 Una vez realizado estos pasos, podras acceder a los archivos utilizando un editor de texto como **Visual Studio Code** para modificar el template y desarrollar tu proyecto personal.
+
+## 3. Demostración de funciones y aplicaciones.
+
+### Demostración de funciones.
+
+Al abrir el archivo `index.html`, tu navegador te llevara a la siguiente pantalla:
+
+![pantalla-inicial](https://github.com/user-attachments/assets/b535fb71-a544-4b66-9f03-ffa7b05be7b2)
+
+En la imagen a continuación se muestran las distintas funcionalidades de la pantalla principal:
+
+![presentación-proyecto](https://github.com/user-attachments/assets/e3eab74a-d24a-452a-9bd3-c8fd2d64e265)
+
+Al presionar sobre el enlace `Sobre mí`, serás redireccionado a la siguiente pagina:
+
+![sobre-mi](https://github.com/user-attachments/assets/c77568b2-7ddc-4556-bd58-e045ee3f2b87)
+
