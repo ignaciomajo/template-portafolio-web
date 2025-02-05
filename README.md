@@ -79,7 +79,7 @@ O si lo deseas, puedes utilizar un editor de texto con el que estés familiariza
 
 ![index-html](https://github.com/user-attachments/assets/b438b917-0345-4bb4-80ac-f916f4ce8432)
 
-Como puede verse a la izquierda de la imagen, cada línea de código tiene un numero de referencia. Utilizaré esto para indicar las modificaciones a realizar:
+Como puede verse a la izquierda de la imagen, cada línea de código tiene un número de referencia. Utilizaré esto para indicar las modificaciones a realizar:
 
 **- Línea 6:** 
 
@@ -103,7 +103,7 @@ Ejemplo:
 Este será el encabezado de
 <strong class="titulo-destaque"> Mi Portafolio </strong>`
 
-"Mi Portafolio" cambiará de color, el resto permanece en blanco.
+"Mi Portafolio" cambiará de color, el resto permanecerá en blanco.
 
 **- Línea 22 a 25:**
 
@@ -118,7 +118,7 @@ Cada enlace está delimitado por `<a> </a>`.
 
 * La propiedad `href="URL"` debe contener la dirección URL de la red social a la cual quieres que se dirija el usuario al presionar el enlace.
 
-* La propiedad `src=./assets/nombre-imagen.png` hace referencia al logo de la red social a la que estarás direccionando al usuario. Dentro de la carpeta assets encontrarás algunos iconos que puedan serte útiles.
+* La propiedad `src=./assets/nombre-imagen.png` hace referencia al logo de la red social a la que estarás direccionando al usuario. Dentro de la carpeta assets encontrarás algunos íconos que podrían serte útiles.
 
 * Antes de `</a>` debes ingresar el nombre de la red social a la cual corresponde dicho enlace.
 
@@ -126,13 +126,13 @@ Cada enlace está delimitado por `<a> </a>`.
 
 Puedes agregar más enlaces o eliminar alguno si lo necesitas.
 
-* Para agregar más enlaces copia un bloque completo `<a> </a>` (corresponde a dos lineas, por ejemplo: 28 y 29) y copialo agregalo debajo del ultimo bloque de este estilo. Luego modifica las propiedades mencionadas anteriormente.
+* Para agregar más enlaces copia un bloque completo `<a> </a>` (corresponde a dos lineas, por ejemplo: 28 y 29) y agrégalo debajo del último bloque de este estilo. Luego modifica las propiedades mencionadas anteriormente.
 
 * Para eliminar un enlace, simplemente borra un bloque completo `<a> </a>`.
 
 **- Línea 36:**
 
-Esta linea corresponde a la imagen que quieras que aparezca en tu pagina web. Para esto, agrega la imagen a la carpeta assets:file_folder:
+Esta línea corresponde a la imagen que quieras que aparezca en tu pagina web. Para esto, agrega la imagen a la carpeta assets:file_folder:.
 
 * Modifica la propiedad `src="./assets/Imagen.png"` de la siguiente manera: `src=".assets/nombre-de-la-imagen.extension`
 
@@ -186,9 +186,10 @@ Este proyecto ha sido posible gracias a estás dos grandes empresas que juntas h
 
 ## 6. Desarrollador del proyecto. :construction_worker:
 
-![IMG_1221](https://github.com/user-attachments/assets/6e1619fd-ff14-4ec4-87e0-f8a6ebefc87c)
+![imagen-readme](https://github.com/user-attachments/assets/e73fef5a-4eac-4f3b-8c29-533bb15d4512)
 
-**| Ignacio Majo | Data Scientist Jr.**
+
+**| Ignacio Majo | Data Scientist Jr. |**
 
 
 
