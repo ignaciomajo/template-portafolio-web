@@ -4,7 +4,7 @@
 
 
 
-## Índice
+## Índice :clipboard:
 
 1. Descripción del proyecto.
 2. Acceso al proyecto.
@@ -13,7 +13,7 @@
 5. Personas contribuyentes
 6. Desarrollador del proyecto
 
-## 1. Descripción del proyecto
+## 1. Descripción del proyecto :books:
 
 Este proyecto consiste en el desarrollo de una página web personal con un diseño moderno, armonioso y completamente responsivo, garantizando una óptima experiencia de usuario en dispositivos móviles, tabletas y computadoras de escritorio.<br>
 
@@ -21,7 +21,7 @@ La estructura del sitio ha sido concebida como un prototipo flexible y personali
 
 Con una interfaz intuitiva y una estética cuidadosamente seleccionada, esta página web proporciona una plataforma eficiente para destacar la identidad digital del usuario, facilitando su conexión con potenciales contactos, clientes o colaboradores.
 
-## 2. Acceso al proyecto
+## 2. Acceso al proyecto :open_file_folder:
 
 Para acceder al proyecto puedes hacerlo de dos maneras sencillas:
 
@@ -61,3 +61,86 @@ Al presionar sobre el enlace `Sobre mí`, serás redireccionado a la siguiente p
 
 ![sobre-mi](https://github.com/user-attachments/assets/c77568b2-7ddc-4556-bd58-e045ee3f2b87)
 
+### Aplicaciones
+
+Como se dijo anteriormente este proyecto es un template para que puedas desarrollar tu propia página web personal.
+
+A continuación detallaré algunos pasos para que puedas completar tu información y utilice esta plantilla como proyecto propio.
+
+#### - :arrow_down: REQUISITOS PREVIOS:
+
+Para la demostración de dichos pasos, utilizaré `Visual Studio Code`.
+
+Si aún no lo tienes instalado en tu ordenador puedes descargarlo desde: https://code.visualstudio.com/download
+
+O si lo deseas, puedes utilizar un editor de texto con el que estés familiarizado/a.
+
+**CONTENIDO PAGINA "HOME"**:
+
+![index-html](https://github.com/user-attachments/assets/b438b917-0345-4bb4-80ac-f916f4ce8432)
+
+Como puede verse a la izquierda de la imagen, cada línea de código tiene un numero de referencia. Utilizaré esto para indicar las modificaciones a realizar:
+
+**- Línea 6:** 
+
+`<title> </title>` Aquí se puede ver el texto: "Portafolio - Home". Este texto es el nombre de la página, es decir, si vemos el navegador, el nombre de la pestaña.
+
+Puedes modificarlo para que aparezca tu nombre (solo debes modificar el texto)
+
+Ejemplo:
+
+`<title> Portafolio de (Tu Nombre) </title>`
+
+**- Línea 18 a 21:**
+
+Todo lo que se encuentra entre `<h1> </h1>` es el encabezado de tu página principal. Dentro de la misma, lo que se encuentre entre `<strong> </strong>` será lo que cambie de color.
+
+Aquí también solo debes modificar el texto.
+
+Ejemplo:
+
+`<h1 class="presentacion__contenido__titulo">
+Este será el encabezado de
+<strong class="titulo-destaque"> Mi Portafolio </strong>`
+
+"Mi Portafolio" cambiará de color, el resto permanece en blanco.
+
+**- Línea 22 a 25:**
+
+Todo lo que se encuentre entre `<p> </p>` sera la breve descripción de la página principal.
+Modifica solo el texto como se ha hecho anteriormente.
+
+**- Línea 26 a 34:**
+
+Esta sección corresponde a los enlaces a tus redes sociales.
+
+Cada enlace está delimitado por `<a> </a>`.
+
+* La propiedad `href="URL"` debe contener la dirección URL de la red social a la cual quieres que se dirija el usuario al presionar el enlace.
+
+* La propiedad `src=./assets/nombre-imagen.png` hace referencia al logo de la red social a la que estarás direccionando al usuario. Dentro de la carpeta assets encontrarás algunos iconos que puedan serte útiles.
+
+* Antes de `</a>` debes ingresar el nombre de la red social a la cual corresponde dicho enlace.
+
+*Nota:*
+
+Puedes agregar más enlaces o eliminar alguno si lo necesitas.
+
+* Para agregar más enlaces copia un bloque completo `<a> </a>` (corresponde a dos lineas, por ejemplo: 28 y 29) y copialo debajo del ultimo bloque de este estilo. Luego modifica las propiedades mencionadas anteriormente.
+
+* Para eliminar un enlace, simplemente borra un bloque completo `<a> </a>`.
+
+**- Línea 36:**
+
+Esta linea corresponde a la imagen que quieras que aparezca en tu pagina web. Para esto, agrega la imagen a la carpeta assets:file_folder:
+
+* Modifica la propiedad `src="./assets/Imagen.png"` de la siguiente manera: `src=".assets/nombre-de-la-imagen.extension`
+
+* La propiedad `alt=" "` es importante para la accesibilidad. Desarrolla una breve descripción de la imagen seleccionada.
+
+**- Línea 39:**
+
+Aquí puedes modificar el texto con tu nombre para denotar que has sido tu quien ha desarrollado tu página web. Puedes agregar otro tipo de información si así lo deseas.
+
+
+**CONTENIDO PAGINA "SOBRE MI"**
