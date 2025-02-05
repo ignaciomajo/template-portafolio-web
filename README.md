@@ -20,3 +20,27 @@ Este proyecto consiste en el desarrollo de una página web personal con un dise�
 La estructura del sitio ha sido concebida como un prototipo flexible y personalizable, permitiendo a los usuarios modificar fácilmente la información y los enlaces a sus redes sociales. Su propósito es servir como una tarjeta de presentación digital, ideal para profesionales, freelancers o cualquier persona que desee compartir su perfil de manera elegante y accesible.<br>
 
 Con una interfaz intuitiva y una estética cuidadosamente seleccionada, esta página web proporciona una plataforma eficiente para destacar la identidad digital del usuario, facilitando su conexión con potenciales contactos, clientes o colaboradores.
+
+## 2. Acceso al proyecto
+
+Para acceder al proyecto puedes hacerlo de dos maneras sencillas:
+
+- Opción 1: Clonar utilizando Git
+
+  Desde tu linea de comandos puedes seleccionar el directorio donde deseas descargar el proyecto y ejecutar el siguiente comando:
+
+  `git clone https://github.com/ignaciomajo/template-portafolio-web`
+
+Este comando hará una copia de todos los archivos necesarios para utilizar el proyecto.
+
+- Opción 2: Descargar ZIP
+
+  Si no deseas usar la linea de comando, puedes dirigirte a la URL del proyecto: https://github.com/ignaciomajo/template-portafolio-web
+
+  En la esquina superior derecha veras la sección `<> Code`, haz clic en dicho menu y veras la opción `Descargar ZIP`
+
+Luego, dirígete al directorio donde has decidido clonar o descargar el archivo zip y deberías contar con los siguientes archivos:
+
+![repositorio-template](https://github.com/user-attachments/assets/4877cc47-a655-434b-9061-b02edf4d8b1d)
+
+Una vez realizado estos pasos, podras acceder a los archivos utilizando un editor de texto como **Visual Studio Code** para modificar el template y desarrollar tu proyecto personal.
