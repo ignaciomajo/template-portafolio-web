@@ -157,6 +157,8 @@ En ambos casos solo necesitas modificar lo que se encuentra entre `<p> </p>`
 
 **- Línea 24 a 31:** Segundo párrafo
 
+**- Línea 33:** Debes reemplazar esta línea por la línea 36 del archivo `index.html` con las modificaciones que realizaste. (línea correspondiente a la imagen)
+
 **- Línea 34:** Aqui deberías copiar el mismo texto que has puesto en la **Línea 39** de la página principal.
 
 
